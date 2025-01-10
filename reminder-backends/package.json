@@ -25,9 +25,5 @@
   "keywords": [],
   "description": ""
 }
-{
-  "scripts": {
-    "start": "node index.js",
-    
-  }
+
 }
