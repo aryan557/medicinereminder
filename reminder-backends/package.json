@@ -25,3 +25,9 @@
   "keywords": [],
   "description": ""
 }
+{
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon --no-deprecation index.js"
+  }
+}
